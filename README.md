@@ -1,24 +1,14 @@
 # Git::Flock
 
-TODO: Write a gem description
+It clones all repositories from an organization.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'git-flock'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install git-flock
+gem install git-flock
 
 ## Usage
 
-TODO: Write usage instructions here
+git-flock org-name api-key
 
 ## Contributing
 
